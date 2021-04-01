@@ -3,5 +3,4 @@ layout: page
 title: About
 ---
 <p class="message">
-This is a p element. Here I will tell something about myself.
-</p>
+This element is pretty bright. Do I need it, or is it too much?</p>
